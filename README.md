@@ -1,2 +1,3 @@
-# results
-A repo with the results of the Subsquid Network incentivized testnet quests.
+# Subsquid Testnet Result
+
+This repo contains a CSV file for the winners of the Subsquid Testnet incentive program (the community and developer track). See the details on the [Coinlist annoucement page](https://coinlist.co/subsquid-testnet).
